@@ -25,7 +25,8 @@ app.get("/ping", (req, res) =>{
 })
 
 app.get("/plain", (req,res) => {
-  res.send( jokes[Math.floor(Math.random() * jokes.length)])
+    let joke = jokes[Math.floor(Math.random() * jokes.length)]
+  res.send(joke.setup + "\n" + joke.punchline)
 })
 app.listen(port, e=>{
     console.log("Server running on port "+ port)
