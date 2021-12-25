@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
 })
 
 app.get("/ping", (req, res) =>{
-    res.send("PONG!")
+    res.render("pong")
 })
 app.listen(port, e=>{
     console.log("Server running on port "+ port)
