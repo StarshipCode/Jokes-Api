@@ -20,6 +20,9 @@ app.get("/", (req, res) => {
     res.render("index",{joke:jokes[Math.floor(Math.random() * jokes.length)]})
 })
 
+app.get("/ping", (req, res) =>{
+    res.send("PONG!")
+})
 app.listen(port, e=>{
     console.log("Server running on port "+ port)
 })
