@@ -23,6 +23,10 @@ app.get("/", (req, res) => {
 app.get("/ping", (req, res) =>{
     res.render("pong")
 })
+
+app.get("/plain", (req,res) => {
+  res.send( jokes[Math.floor(Math.random() * jokes.length)])
+})
 app.listen(port, e=>{
     console.log("Server running on port "+ port)
 })
