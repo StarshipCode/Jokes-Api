@@ -29,6 +29,12 @@ app.get("/plain", (req,res) => {
     res.setHeader('content-type', 'text/plain');
     res.send(joke.setup + "\n" + joke.punchline + "\n")
 })
+app.get("/plain/type/:type", (req, res) => {
+    let type = req.params.type
+    let joke = jokes.filter(e => e.type == type)[Math.floor(Math.random() * jokes.length)]
+    res.setHeader('content-type', 'text/plain');
+    res.send(joke.setup + "\n" + joke.punchline + "\n")
+})
 app.listen(port, e=>{
     console.log("Server running on port "+ port)
 })
