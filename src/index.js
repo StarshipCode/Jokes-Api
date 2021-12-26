@@ -10,6 +10,8 @@ const port = process.env.PORT || 8000
 app.set("view engine", "ejs")
 app.set("views", path.join(__dirname + "/views"))
 
+//Middlewares
+app.use(express.static(path.join(__dirname + "/public")))
 app.use(express.urlencoded({ extended: false }))
 
 app.get("/random_joke", (req, res) => {
