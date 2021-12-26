@@ -2266,6 +2266,13 @@
       "type": "general",
       "setup": "My older brother always tore the last pages of my comic books, and never told me why.",
       "punchline": "I had to draw my own conclusions."
-    }
+    },
+    {
+      "id": 388,
+      "type": "easter-egg",
+      "setup": "I know it wasn't funny but i did my best try",
+      "punchline": "Made with ❤️ by StarshipCode "
+    },
+    
   ]
   
