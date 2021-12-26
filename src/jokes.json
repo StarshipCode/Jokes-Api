@@ -132,12 +132,6 @@
       "punchline": "Narnia business!"
     },
     {
-      "id": 23,
-      "type": "programming",
-      "setup": "Why do programmers always mix up Halloween and Christmas?",
-      "punchline": "Because Oct 31 == Dec 25"
-    },
-    {
       "id": 24,
       "type": "programming",
       "setup": "A SQL query walks into a bar, walks up to two tables and asks...",
@@ -310,12 +304,6 @@
       "type": "general",
       "setup": "Why did the invisible man turn down the job offer?",
       "punchline": "He couldn't see himself doing it"
-    },
-    {
-      "id": 53,
-      "type": "general",
-      "setup": "How do you make holy water?",
-      "punchline": "You boil the hell out of it"
     },
     {
       "id": 54,
@@ -534,12 +522,6 @@
       "punchline": "They say he made a mint."
     },
     {
-      "id": 91,
-      "type": "general",
-      "setup": "Did you hear about the guy whose whole left side was cut off?",
-      "punchline": "He's all right now."
-    },
-    {
       "id": 92,
       "type": "general",
       "setup": "Did you hear about the kidnapping at school?",
@@ -696,12 +678,6 @@
       "punchline": "Because all of the fans left."
     },
     {
-      "id": 118,
-      "type": "general",
-      "setup": "How did Darth Vader know what Luke was getting for Christmas?",
-      "punchline": "He felt his presents."
-    },
-    {
       "id": 119,
       "type": "general",
       "setup": "How did the hipster burn the roof of his mouth?",
@@ -766,12 +742,6 @@
       "type": "general",
       "setup": "How do you make a hankie dance?",
       "punchline": "Put a little boogie in it."
-    },
-    {
-      "id": 130,
-      "type": "general",
-      "setup": "How do you make holy water?",
-      "punchline": "You boil the hell out of it."
     },
     {
       "id": 131,
@@ -954,12 +924,6 @@
       "punchline": "A spelling bee."
     },
     {
-      "id": 161,
-      "type": "general",
-      "setup": "What did celery say when he broke up with his girlfriend?",
-      "punchline": "She wasn't right for me, so I really don't carrot all."
-    },
-    {
       "id": 162,
       "type": "general",
       "setup": "What did Michael Jackson name his denim store?",
@@ -1038,22 +1002,10 @@
       "punchline": "Cool Ranch!"
     },
     {
-      "id": 184,
-      "type": "general",
-      "setup": "What did the fish say when it swam into a wall?",
-      "punchline": "Damn!"
-    },
-    {
       "id": 185,
       "type": "general",
       "setup": "What did the grape do when he got stepped on?",
       "punchline": "He let out a little wine."
-    },
-    {
-      "id": 186,
-      "type": "general",
-      "setup": "What did the judge say to the dentist?",
-      "punchline": "Do you swear to pull the tooth, the whole tooth and nothing but the tooth?"
     },
     {
       "id": 187,
@@ -1126,12 +1078,6 @@
       "type": "general",
       "setup": "What did the Zen Buddist say to the hotdog vendor?",
       "punchline": "Make me one with everything."
-    },
-    {
-      "id": 198,
-      "type": "general",
-      "setup": "What do birds give out on Halloween?",
-      "punchline": "Tweets."
     },
     {
       "id": 199,
@@ -1252,12 +1198,6 @@
       "type": "general",
       "setup": "What do you call a fly without wings?",
       "punchline": "A walk."
-    },
-    {
-      "id": 219,
-      "type": "general",
-      "setup": "What do you call a girl between two posts?",
-      "punchline": "Annette."
     },
     {
       "id": 220,
@@ -1974,12 +1914,6 @@
       "punchline": "To hold his pants up."
     },
     {
-      "id": 339,
-      "type": "general",
-      "setup": "Why did the girl smear peanut butter on the road?",
-      "punchline": "To go with the traffic jam."
-    },
-    {
       "id": 340,
       "type": "general",
       "setup": "Why did the half blind man fall in the well?",
@@ -2148,12 +2082,6 @@
       "punchline": "Dunno, they're just a bit shady."
     },
     {
-      "id": 368,
-      "type": "general",
-      "setup": "Why do valley girls hang out in odd numbered groups?",
-      "punchline": "Because they can't even."
-    },
-    {
       "id": 369,
       "type": "general",
       "setup": "Why do wizards clean their teeth three times a day?",
@@ -2266,13 +2194,6 @@
       "type": "general",
       "setup": "My older brother always tore the last pages of my comic books, and never told me why.",
       "punchline": "I had to draw my own conclusions."
-    },
-    {
-      "id": 388,
-      "type": "easter-egg",
-      "setup": "I know it wasn't funny but i did my best try",
-      "punchline": "Made with ❤️ by StarshipCode "
     }
-    
   ]
   
