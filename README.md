@@ -5,15 +5,19 @@ Jokes API . In progress...
 https://jokes-api-one.herokuapp.com/
 
 ## Api routes:
-
-#### /
+```http
+GET /
+```
 return's a html
-
-#### /random_joke
+```http
+GET /random_joke
+```
 return's a random joke in json format
-
-#### /plain
+```http
+GET /plain
+```
 return's a random joke in plain text
-
-#### /plain/type
+```http
+GET /plain/type
+```
 return's a random joke in plain text by the type of joke
