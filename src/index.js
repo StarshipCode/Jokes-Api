@@ -33,7 +33,7 @@ app.get("/plain/:type", (req, res) => {
     let type = req.params.type
     let joke = jokes.filter(e => e.type == type)
     joke = joke[Math.floor(Math.random() * joke.length)]
-    if (!joke) {
+   if (joke!=undefined) {
         res.setHeader('content-type', 'text/plain');
         res.send(joke.setup + "\n" + joke.punchline + "\n")
     }
